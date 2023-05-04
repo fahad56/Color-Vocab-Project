@@ -1,0 +1,58 @@
+h1 {
+    text-align: center;
+}
+
+#spanish-title {
+    text-align: center;
+}
+
+
+#red {
+    color: red;
+    text-align: center;
+}
+
+#blue {
+    color: blue;
+    text-align: center
+}
+
+#orange {
+    color: orange;
+    text-align: center
+}
+
+#green {
+    color: green;
+    text-align: center
+}
+
+#yellow {
+    color: yellow;
+    text-align: center
+}
+
+.class-note {
+    font-weight: normal;
+    text-align: center
+}
+
+img {
+    height: 200px;
+    width: 200px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+* {
+    background-color: bisque;
+}
+
+.footer {
+    text-align: center;
+}
